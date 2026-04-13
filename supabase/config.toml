@@ -1,0 +1,7 @@
+project_id = "vyifrwfuduzogpmjgadd"
+
+[functions.generate-paper]
+verify_jwt = false
+
+[functions.compile-latex]
+verify_jwt = false
