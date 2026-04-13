@@ -116,17 +116,6 @@ npm run dev
 
 ---
 
-## Authors
-
-- **Deepesh Singh** — System architecture, backend, Supabase integration, prompt engineering
-- **Shiv Sagar Giri** — Frontend interface and routing
-- **Akshay Singh** — LaTeX editor and PDF compilation workflow
-- **Ram Kailash Gupta** — Supervision and domain expertise
-
-Bansal Institute of Engineering and Technology, Lucknow
-
----
-
 ## License
 
 This project is for academic purposes. Contact the corresponding author for source code access.
